@@ -3,7 +3,7 @@ About r-later
 
 Home: https://github.com/r-lib/later
 
-Package license: GPL (>= 2)
+Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-later-feedstock/blob/master/LICENSE.txt)
 
