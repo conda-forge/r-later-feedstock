@@ -7,20 +7,24 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-later-feedsto
 About r-later
 -------------
 
-Home: https://github.com/r-lib/later
+Home: https://r-lib.github.io/later/
 
 Package license: MIT
 
 Summary: Executes arbitrary R or C functions some time after the current time, after the R execution stack has emptied.
+
+Development: https://github.com/r-lib/later
 
 About r-later
 -------------
 
-Home: https://github.com/r-lib/later
+Home: https://r-lib.github.io/later/
 
 Package license: MIT
 
 Summary: Executes arbitrary R or C functions some time after the current time, after the R execution stack has emptied.
+
+Development: https://github.com/r-lib/later
 
 Current build status
 ====================
